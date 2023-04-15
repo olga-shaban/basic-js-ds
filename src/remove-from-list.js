@@ -22,7 +22,7 @@ const { ListNode } = require('../extensions/list-node.js');
  *   }
  * }
  */
-function removeKFromList(/* l, k */) {
+
 function removeKFromList(l, k ) {
 let list = l;
 let nextNode = null;
